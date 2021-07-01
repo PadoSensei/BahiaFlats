@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BahiaFlats/static/css/main.b8097595.chunk.css",
-    "main.js": "/BahiaFlats/static/js/main.167ebb55.chunk.js",
-    "main.js.map": "/BahiaFlats/static/js/main.167ebb55.chunk.js.map",
+    "main.js": "/BahiaFlats/static/js/main.85ffca47.chunk.js",
+    "main.js.map": "/BahiaFlats/static/js/main.85ffca47.chunk.js.map",
     "runtime-main.js": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js",
     "runtime-main.js.map": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js.map",
     "static/js/2.515a7787.chunk.js": "/BahiaFlats/static/js/2.515a7787.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.8e5b71e8.js",
     "static/js/2.515a7787.chunk.js",
     "static/css/main.b8097595.chunk.css",
-    "static/js/main.167ebb55.chunk.js"
+    "static/js/main.85ffca47.chunk.js"
   ]
 }
