@@ -11,6 +11,7 @@ Contact / About Page
 Languages 
 Typescript
 Refactor State MGMT
+Analytics
 ## Deploy on Gitpages
 npm run deploy
 
