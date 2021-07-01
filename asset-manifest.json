@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BahiaFlats/static/css/main.b8097595.chunk.css",
-    "main.js": "/BahiaFlats/static/js/main.471e01eb.chunk.js",
-    "main.js.map": "/BahiaFlats/static/js/main.471e01eb.chunk.js.map",
+    "main.js": "/BahiaFlats/static/js/main.167ebb55.chunk.js",
+    "main.js.map": "/BahiaFlats/static/js/main.167ebb55.chunk.js.map",
     "runtime-main.js": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js",
     "runtime-main.js.map": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js.map",
-    "static/js/2.34f0bb88.chunk.js": "/BahiaFlats/static/js/2.34f0bb88.chunk.js",
-    "static/js/2.34f0bb88.chunk.js.map": "/BahiaFlats/static/js/2.34f0bb88.chunk.js.map",
+    "static/js/2.515a7787.chunk.js": "/BahiaFlats/static/js/2.515a7787.chunk.js",
+    "static/js/2.515a7787.chunk.js.map": "/BahiaFlats/static/js/2.515a7787.chunk.js.map",
     "index.html": "/BahiaFlats/index.html",
     "static/css/main.b8097595.chunk.css.map": "/BahiaFlats/static/css/main.b8097595.chunk.css.map",
-    "static/js/2.34f0bb88.chunk.js.LICENSE.txt": "/BahiaFlats/static/js/2.34f0bb88.chunk.js.LICENSE.txt",
+    "static/js/2.515a7787.chunk.js.LICENSE.txt": "/BahiaFlats/static/js/2.515a7787.chunk.js.LICENSE.txt",
     "static/media/App.css": "/BahiaFlats/static/media/room-2.48c60181.jpeg",
     "static/media/details-1.c4851740.jpeg": "/BahiaFlats/static/media/details-1.c4851740.jpeg",
     "static/media/details-2.dc89255d.jpeg": "/BahiaFlats/static/media/details-2.dc89255d.jpeg",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8e5b71e8.js",
-    "static/js/2.34f0bb88.chunk.js",
+    "static/js/2.515a7787.chunk.js",
     "static/css/main.b8097595.chunk.css",
-    "static/js/main.471e01eb.chunk.js"
+    "static/js/main.167ebb55.chunk.js"
   ]
 }
