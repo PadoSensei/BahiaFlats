@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BahiaFlats/static/css/main.76261c46.chunk.css",
-    "main.js": "/BahiaFlats/static/js/main.afbe4e5c.chunk.js",
-    "main.js.map": "/BahiaFlats/static/js/main.afbe4e5c.chunk.js.map",
+    "main.css": "/BahiaFlats/static/css/main.cf36393e.chunk.css",
+    "main.js": "/BahiaFlats/static/js/main.36163901.chunk.js",
+    "main.js.map": "/BahiaFlats/static/js/main.36163901.chunk.js.map",
     "runtime-main.js": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js",
     "runtime-main.js.map": "/BahiaFlats/static/js/runtime-main.8e5b71e8.js.map",
     "static/js/2.515a7787.chunk.js": "/BahiaFlats/static/js/2.515a7787.chunk.js",
     "static/js/2.515a7787.chunk.js.map": "/BahiaFlats/static/js/2.515a7787.chunk.js.map",
     "index.html": "/BahiaFlats/index.html",
-    "static/css/main.76261c46.chunk.css.map": "/BahiaFlats/static/css/main.76261c46.chunk.css.map",
+    "static/css/main.cf36393e.chunk.css.map": "/BahiaFlats/static/css/main.cf36393e.chunk.css.map",
     "static/js/2.515a7787.chunk.js.LICENSE.txt": "/BahiaFlats/static/js/2.515a7787.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/BahiaFlats/static/media/room-2.48c60181.jpeg",
+    "static/media/App.css": "/BahiaFlats/static/media/Bahia_Flats_Outer_7.b27d3871.jpg",
     "static/media/engen_kitchen.3c672711.jpg": "/BahiaFlats/static/media/engen_kitchen.3c672711.jpg",
     "static/media/engen_master_bed.0c84e83e.jpg": "/BahiaFlats/static/media/engen_master_bed.0c84e83e.jpg",
     "static/media/engen_room_1.84a1c852.jpg": "/BahiaFlats/static/media/engen_room_1.84a1c852.jpg",
@@ -30,12 +30,13 @@
     "static/media/prainha_kitchen_2.8717ca81.jpg": "/BahiaFlats/static/media/prainha_kitchen_2.8717ca81.jpg",
     "static/media/prainha_master_1.cb1960c0.jpg": "/BahiaFlats/static/media/prainha_master_1.cb1960c0.jpg",
     "static/media/prainha_master_2.69d87c66.jpg": "/BahiaFlats/static/media/prainha_master_2.69d87c66.jpg",
-    "static/media/room-1.05b90599.jpeg": "/BahiaFlats/static/media/room-1.05b90599.jpeg"
+    "static/media/room-2.48c60181.jpeg": "/BahiaFlats/static/media/room-2.48c60181.jpeg",
+    "static/media/room-cover.6ae06928.jpg": "/BahiaFlats/static/media/room-cover.6ae06928.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8e5b71e8.js",
     "static/js/2.515a7787.chunk.js",
-    "static/css/main.76261c46.chunk.css",
-    "static/js/main.afbe4e5c.chunk.js"
+    "static/css/main.cf36393e.chunk.css",
+    "static/js/main.36163901.chunk.js"
   ]
 }
