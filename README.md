@@ -12,6 +12,9 @@ Languages
 Typescript
 Refactor State MGMT
 Analytics
+Update Photos
+Update Data
+
 ## Deploy on Gitpages
 npm run deploy
 
